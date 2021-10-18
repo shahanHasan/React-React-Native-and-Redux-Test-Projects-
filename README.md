@@ -1,4 +1,4 @@
-# Tutorials On Reactjs - React fundamentals (Hooks, Forms etc), Redux (Global state management library)
+# Tutorials On Reactjs - React fundamentals (Hooks, Forms etc), Redux (Global state management library), React Native
 
 ## All Folders are Individual Projects on react, redux. These Folders represent code along projects from youtube channels like (Free Code Camp) , Coding Addict etc
 
